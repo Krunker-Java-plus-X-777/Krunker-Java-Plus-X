@@ -1,6 +1,6 @@
-# Krunker-2.7.0-HACK
-Krunker 2.7.0 HACK
->Krunker.io Hack v2.7.0✔️
+# Krunker-2.711-HACK
+Krunker 2.7.1 HACK
+>Krunker.io Hack v2.7.1✔️
 __________________________________
 >KRUNKER JAVA PLUS 𝓧 future plans 
 - Make Krunker AimBot HAX  - Make Krunker Extension HAX
