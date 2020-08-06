@@ -14,11 +14,11 @@ __________________________________
 | SilentAim(v2)      |❌  |
 | Chams              |✅  |
 | Esp                |✅  |
-| AutoBhop           |✅  |
+| AutoBhop           |❌  |
 | 3DESP              |✅  |
-| WireFrame          |✅  |
-| AutoReload         |✅  |
-| WallBangs          |✅  |
+| WireFrame          |❌  |
+| AutoReload         |❌  |
+| WallBangs          |❌  |
 __________________________________
 Best Ever‼️
 __________________________________
