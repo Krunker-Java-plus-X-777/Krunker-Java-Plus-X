@@ -19,9 +19,9 @@ __________________________________
 | WireFrame          |❌  |
 | AutoReload         |❌  |
 | WallBangs          |❌  |
-| FOV HACK           |✅  |
-| Font Changer       |✅  |
-| Fake Lag Script    |✅  |
+| FOV HACK  (NEW!)         |✅  |
+| Font Changer (NEW!)      |✅  |
+| Fake Lag Script (NEW!)   |✅  |
 __________________________________
 Best Ever‼️
 __________________________________
