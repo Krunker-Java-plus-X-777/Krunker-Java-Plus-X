@@ -6,3 +6,5 @@ _____________________________________________
 |Auto Fire|✅     |
 |ESP      |✅     |
 ____________________________________________
+Just Download Krunker_Hack file and drag to extension
+ENJOY!
