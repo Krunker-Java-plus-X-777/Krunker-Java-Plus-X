@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Krunker fake lag script
 // @namespace    LAGYYYYY
-// @version      2.7.1
+// @version      2.7.5
 // @description  Teleport woo hoo
 // @author       Krunker Java Plus 𝓧
 // @match        https://krunker.io/*
